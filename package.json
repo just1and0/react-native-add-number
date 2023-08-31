@@ -1,0 +1,22 @@
+{
+  "name": "react-native-add-number",
+  "version": "1.0.0",
+  "description": "React Native package to sum two numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }, 
+  "author": "",
+  "license": "ISC",
+  "react-native": "index",
+  "source": "index",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "sdk"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
